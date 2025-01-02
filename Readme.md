@@ -1,5 +1,5 @@
 # Login And Register Api
 
-## Dependecys
+## Dependecies
 *   Auth0
 * H2 
